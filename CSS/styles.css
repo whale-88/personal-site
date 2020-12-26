@@ -1,0 +1,148 @@
+
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+/* h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+}   */
+h1 {
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+hr {
+  margin: 100px auto 100px auto;
+  border: none;
+  border-top: 10px dotted #EAF6F6;
+  width: 6%;
+
+  }
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+p {
+line-height: 2;
+  font-weight: bold;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+
+}
+.Introduction {
+  width: 30%;
+  margin: auto;
+}
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.programming-discription {
+  clear: left;
+}
+.gaming {
+  width: 25%;
+  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
+}
+.gaming-discription {
+  clear: right;
+}
+.GamingSkill {color: #11999E;}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.footer-link {padding: 25px;
+font-weight: bold;}
+/*.pro {
+  font-weight: normal;
+  text-decoration: underline;
+}*/
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.bottom-cloud {
+position: absolute;
+left: 400px;
+bottom: 300px;
+}
+
+.middle-container {
+margin: 100px 0;
+}
+.contact-me {margin: 40px auto 60px;
+}
+
+.bottom-container {
+padding-bottom: 20px;
+background-color: #66BFBF;
+padding-top: 50px;
+
+}
+
+.rights {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-top:20px;
+  margin-bottom: 0;
+}
+
+.Contact-button {
+  margin-top: 50px;
+   -webkit-border-radius: 21px;
+   -moz-border-radius: 21px;
+   border-radius: 21px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 200px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #11999E;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Contact-button:hover {
+   background: #FCC30E;
+   border: solid #FFAE00 3px;
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   text-decoration: none;
+}
